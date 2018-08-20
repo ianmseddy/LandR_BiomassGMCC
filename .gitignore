@@ -1,2 +1,6 @@
-*Rproj\.user
-\.Rproj\.user/5CD1D0D/console06/
+.Rproj.user
+.Rapp.history
+.RData
+.log
+.csv
+last.dump.rda
