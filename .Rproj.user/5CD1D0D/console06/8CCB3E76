@@ -1,43 +1,0 @@
-[0m[0KMicrosoft Windows [Version 6.1.7601][0K[?25l
-Copyright (c) 2009 Microsoft Corporation.  All rights reserved.[0K
-[0K
-C:\Ian\Git\LandR_BiomassGMCC>[0K[?25hg[0Ki[0Kt[0K[34G[?25lC:\Ian\Git\LandR_BiomassGMCC>git s[0K[?25ha[0Kt[0K[?25lC:\Ian\Git\LandR_BiomassGMCC>git sa[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
-[0K[?25hfatal: Not a git repository (or any of the parent directories): .git[0K[?25l
-[0K[?25h]0; [?25l
-C:\Ian\Git\LandR_BiomassGMCC>[0K[?25hg[0Ki[0Kt[0K[34G[?25lC:\Ian\Git\LandR_BiomassGMCC>git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
-[0K[?25hInitialized empty Git repository in C:/Ian/Git/LandR_BiomassGMCC/.git/[0K[?25l
-[0K[?25h]0; [?25l
-C:\Ian\Git\LandR_BiomassGMCC>[0K[?25hg[0Ki[0Kt[0K[34G[?25lC:\Ian\Git\LandR_BiomassGMCC>git a[0K[?25hd[0Kd[0K[38G[?25lC:\Ian\Git\LandR_BiomassGMCC>git add R[0K[?25hE[0KA[0KD[0KM[0KE[0K.[0Km[0Kd[0K]0;  - git  add README.md[?25l
-[0K[?25hfatal: pathspec 'README.md' did not match any files[0K[?25l
-[0K[?25h]0; [?25l
-C:\Ian\Git\LandR_BiomassGMCC>[0K[?25he[0Kc[0Kh[0Ko[0K[35G[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "[0K[?25h$[0K[38G[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "$ L[0K[?25ha[0Kn[0Kd[0KR[0K_[0KB[0K[44G[43G[42G[41G[40G[39G[38G[37G[36G[?25lC:\Ian\Git\LandR_BiomassGMCC>echo $ LandR_B[0K[35G[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>echo #$ LandR_B[0K[36G[?25h[35G[34G[?25lC:\Ian\Git\LandR_BiomassGMCC>echo" #$ LandR_B[0K[35G[?25h[34G[?25lC:\Ian\Git\LandR_BiomassGMCC>echo " #$ LandR_B[0K[35G[?25h[36G[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "#$ LandR_B[0K[36G[?25h[37G[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "# LandR_B[0K[37G[?25h[38G[39G[40G[41G[42G[43G[44G[45G[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "# LandR_Bi[0K[?25ho[0Km[0Ka[0Ks[0Ks[0KG[0KM[0KC[0KC[0K"[0K[57G[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "# LandR_BiomassGMCC" ?[0K[?25h?[0K[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "# LandR_BiomassGMCC" ?[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "# LandR_BiomassGMCC"[0K[57G[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "# LandR_BiomassGMCC" >[0K[?25h>[0K[60G[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "# LandR_BiomassGMCC" >> R[0K[?25hE[0KA[0KD[0KM[0KE[0K>[0K[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "# LandR_BiomassGMCC" >> README[0K[?25hm[0K[?25lC:\Ian\Git\LandR_BiomassGMCC>echo "# LandR_BiomassGMCC" >> README[0K[?25h.[0Km[0Kd[0K[68G[69G[?25l
-[0K[?25h[?25l
-C:\Ian\Git\LandR_BiomassGMCC>[0K[?25hg[0Ki[0Kt[0K[34G[33G[?25lC:\Ian\Git\LandR_BiomassGMCC>gi[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>g[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>[0K[?25hg[0Ki[0Kt[0K[34G[?25lC:\Ian\Git\LandR_BiomassGMCC>git a[0K[?25hd[0Kd[0K[38G[?25lC:\Ian\Git\LandR_BiomassGMCC>git add R[0K[?25hE[0KA[0KD[0KM[0KE[0K.[0Km[0Kd[0K[?25l
-[0K[?25h]0;  - git  add README.md]0; [?25l
-C:\Ian\Git\LandR_BiomassGMCC>[0K[?25hg[0Ki[0Kt[0K[34G[?25lC:\Ian\Git\LandR_BiomassGMCC>git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[41G[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -[0K[?25hm[0K[44G[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "[0K[?25hf[0Ki[0Kr[0Ks[0Kt[0K[51G[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "first co[0K[?25hm[0Km[0Ki[0Kt[0K"[0K[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "first commit[0K[?25h"[0K[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "first commit[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "first comm[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "first com[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "first co[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "first c[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "first[0K[51G[?25h[50G[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "firs[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "fir[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "fi[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "f[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m "[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -m[0K[44G[?25h[43G[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit -[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git commit[0K[41G[?25h[40G[?25lC:\Ian\Git\LandR_BiomassGMCC>git commi[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git comm[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git com[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git co[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git c[0K[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git[0K[34G[?25h[?25lC:\Ian\Git\LandR_BiomassGMCC>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
-[0K[?25hOn branch master[0K[?25l
-[0K
-No commits yet[0K
-[0K
-Changes to be committed:[0K
-  (use "git rm --cached <file>..." to unstage)[0K
-[0K
-        [0;32mnew file:   README.md[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rhistory[0m[0K
-        [0;31m.Rproj.user/[0m[0K
-        [0;31mLICENSE[0m[0K
-        [0;31mLandR_BiomassGMCC.R[0m[0K
-        [0;31mLandR_BiomassGMCC.Rmd[0m[0K
-        [0;31mLandR_BiomassGMCC.Rproj[0m[0K
-        [0;31mREADME.txt[0m[0K
-        [0;31mcitation.bib[0m[0K
-        [0;31mhelprun.R[0m[0K
-        [0;31mtests/[0m[0K
-[0K
-[0K[?25h]0; [?25l
-C:\Ian\Git\LandR_BiomassGMCC>[0K[?25hg[0Ki[0Kt[0K[34G[?25lC:\Ian\Git\LandR_BiomassGMCC>git s[0K[?25ht[0Ka[0Kg[0Ke[0K[40G[?25lC:\Ian\Git\LandR_BiomassGMCC>git stage -[0K[?25hA[0K]0;  - git  stage -A[?25l
-[0K[?25h
