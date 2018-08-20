@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534782002517.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F9A090E1",
+    "lastKnownWriteTime" : 1534782840,
+    "last_content_update" : 1534782840560,
+    "path" : "C:/Ian/Git/LBMR/LBMR.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "97,57",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

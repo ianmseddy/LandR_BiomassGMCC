@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534535420060.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DEE9B9FA",
+    "lastKnownWriteTime" : 1534784015,
+    "last_content_update" : 1534784015259,
+    "path" : "C:/Ian/Git/LandR_BiomassGMCC/LandR_BiomassGMCC.R",
+    "project_path" : "LandR_BiomassGMCC.R",
+    "properties" : {
+        "cursorPosition" : "7,31",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
